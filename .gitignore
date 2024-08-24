@@ -1,0 +1,5 @@
+__pycache__/
+log/
+log_tensorboard/
+saved/
+.DS_Store
